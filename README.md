@@ -33,7 +33,7 @@ Niko梦碎克卢日纳波卡Major、Niko梦碎哥伦布Major、Niko梦碎科隆M
       <div>
         <img src="assets/wearefalcons.webp" alt="We are Falcon" width="100%" />
         <div align="center">
-          <a href="https://v.douyin.com/6sX_PGdaX3w/">Let's listen to We_are_falcon</a>
+          <a href="https://v.douyin.com/6sX_PGdaX3w/">我要开始跳法尔孔战舞了</a>
         </div>
       </div>
     </td>
@@ -46,3 +46,4 @@ Niko梦碎克卢日纳波卡Major、Niko梦碎哥伦布Major、Niko梦碎科隆M
   </tr>
 </table>
 
+# 头像源于[pixiv](https://www.pixiv.net/artworks/143203968)
