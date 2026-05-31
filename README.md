@@ -22,10 +22,10 @@
 
 
 
-# I love you, Niko!
-男人一生只哭17次：
+# I love you, NiKo!
+女人一生只哭17次：
 
-Niko梦碎克卢日纳波卡Major、Niko梦碎哥伦布Major、Niko梦碎科隆Major、Niko梦碎亚特兰大Major、Niko梦碎克拉科夫Major、Niko梦碎波士顿Major、Niko梦碎伦敦Major、Niko梦碎卡托维兹Major、Niko梦碎柏林Major、Niko梦碎斯德哥尔摩Major、Niko梦碎安特卫普Major、Niko梦碎里约RMR、Niko梦碎巴黎Major、Niko梦碎哥本哈根Major、Niko梦碎上海Major、Niko梦碎奥斯汀Major、Niko梦碎布达佩斯Major
+NiKo梦碎克卢日纳波卡Major、NiKo梦碎哥伦布Major、NiKo梦碎科隆Major、NiKo梦碎亚特兰大Major、NiKo梦碎克拉科夫Major、NiKo梦碎波士顿Major、NiKo梦碎伦敦Major、NiKo梦碎卡托维兹Major、NiKo梦碎柏林Major、NiKo梦碎斯德哥尔摩Major、NiKo梦碎安特卫普Major、NiKo梦碎里约RMR、NiKo梦碎巴黎Major、NiKo梦碎哥本哈根Major、NiKo梦碎上海Major、NiKo梦碎奥斯汀Major、NiKo梦碎布达佩斯Major
 
 <table align="center" width="100%" cellpadding="0" cellspacing="0" border="0">
   <tr>
@@ -38,10 +38,10 @@ Niko梦碎克卢日纳波卡Major、Niko梦碎哥伦布Major、Niko梦碎科隆M
       </div>
     </td>
     <td width="33.3%" valign="top">
-      <img src="assets/niko.png" alt="Niko" width="100%" />
+      <img src="assets/NiKo.png" alt="NiKo" width="100%" />
     </td>
     <td width="33.3%" valign="top">
-      <img src="assets/oh.webp" alt="Niko" width="100%" />
+      <img src="assets/oh.webp" alt="NiKo" width="100%" />
     </td>
   </tr>
 </table>
