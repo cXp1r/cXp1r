@@ -31,17 +31,17 @@ NiKo梦碎克卢日纳波卡Major、NiKo梦碎哥伦布Major、NiKo梦碎科隆M
   <tr>
     <td width="33.3%" valign="top">
       <div>
-        <img src="assets/wearefalcons.webp" alt="We are Falcon" width="100%" />
+        <img src="assets/3.webp" alt="We are Falcon" width="100%" />
         <div align="center">
           <a href="https://v.douyin.com/6sX_PGdaX3w/">我要开始跳法尔孔战舞了</a>
         </div>
       </div>
     </td>
     <td width="33.3%" valign="top">
-      <img src="assets/NiKo.png" alt="NiKo" width="100%" />
+      <img src="assets/1.png" alt="NiKo" width="100%" />
     </td>
     <td width="33.3%" valign="top">
-      <img src="assets/oh.webp" alt="NiKo" width="100%" />
+      <img src="assets/2.webp" alt="NiKo" width="100%" />
     </td>
   </tr>
 </table>
