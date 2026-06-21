@@ -23,10 +23,10 @@
 
 
 # I love you, NiKo!
-女人一生只哭17次：
-
-NiKo梦碎克卢日纳波卡Major、NiKo梦碎哥伦布Major、NiKo梦碎科隆Major、NiKo梦碎亚特兰大Major、NiKo梦碎克拉科夫Major、NiKo梦碎波士顿Major、NiKo梦碎伦敦Major、NiKo梦碎卡托维兹Major、NiKo梦碎柏林Major、NiKo梦碎斯德哥尔摩Major、NiKo梦碎安特卫普Major、NiKo梦碎里约RMR、NiKo梦碎巴黎Major、NiKo梦碎哥本哈根Major、NiKo梦碎上海Major、NiKo梦碎奥斯汀Major、NiKo梦碎布达佩斯Major
-
+波士顿的梦魇，斯德哥尔摩的遗憾，18次深夜中的眼泪，化成对冠军近乎癫狂的执念。十一年如一日的坚守，终破烙印胸膛中的心魔。
+尼古拉·科维奇，不以天赋自矜的天才，终将成就不朽的传奇。
+见证历史！恭喜NiKo夺得2026科隆major冠军！
+![alt text](assets/4.jpg)
 <table align="center" width="100%" cellpadding="0" cellspacing="0" border="0">
   <tr>
     <td width="33.3%" valign="top">
