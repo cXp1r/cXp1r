@@ -40,18 +40,13 @@
 <table align="center" width="100%" cellpadding="0" cellspacing="0" border="0">
   <tr>
     <td width="33.3%" valign="top">
-      <div>
-        <img src="assets/3.webp" alt="We are Falcon" width="100%" />
-        <div align="center">
-          <a href="https://v.douyin.com/6sX_PGdaX3w/">我要开始跳法尔孔战舞了</a>
-        </div>
-      </div>
+      <img src="assets/1.gif" alt="NiKo" width="100%" />
     </td>
     <td width="33.3%" valign="top">
-      <img src="assets/1.png" alt="NiKo" width="100%" />
+      <img src="assets/2.gif" alt="NiKo" width="100%" />
     </td>
     <td width="33.3%" valign="top">
-      <img src="assets/2.webp" alt="NiKo" width="100%" />
+      <img src="assets/3.gif" alt="NiKo" width="100%" />
     </td>
   </tr>
 </table>
