@@ -27,6 +27,10 @@
 尼古拉·科维奇，不以天赋自矜的天才，终将成就不朽的传奇。
 见证历史！恭喜NiKo夺得2026科隆major冠军！
 
+The nightmare of Boston, the regret of Stockholm, eighteen late-night tears—all condensed into an almost obsessive pursuit of the championship. Eleven years of unwavering persistence, finally breaking the inner demon branded upon the chest.
+Nikola Kovač, a genius who never relied on his talent as pride, will ultimately forge an immortal legend.
+Witness history! Congratulations to NiKo on winning the 2026 Cologne Major Championship!
+
 <table align="center" width="100%" cellpadding="0" cellspacing="0" border="0">
   <tr>
     <td width="50%" valign="top">
