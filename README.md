@@ -44,13 +44,13 @@ Witness history! Congratulations to NiKo on winning the 2026 Cologne Major Champ
 <table align="center" width="100%" cellpadding="0" cellspacing="0" border="0">
   <tr>
     <td width="33.3%" valign="top">
-      <img src="assets/1.gif" alt="NiKo" width="100%" />
+      <img src="assets/1.webp" alt="NiKo" width="100%" />
     </td>
     <td width="33.3%" valign="top">
-      <img src="assets/2.gif" alt="NiKo" width="100%" />
+      <img src="assets/2.webp" alt="NiKo" width="100%" />
     </td>
     <td width="33.3%" valign="top">
-      <img src="assets/3.gif" alt="NiKo" width="100%" />
+      <img src="assets/3.webp" alt="NiKo" width="100%" />
     </td>
   </tr>
 </table>
