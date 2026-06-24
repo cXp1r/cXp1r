@@ -11,26 +11,28 @@
   </a>
   
 
-  <div style="display: flex; gap: 12px; justify-content: center; align-items: flex-start; width: 100%;">
-    <div style="flex: 0 0 37.5%;">
-      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img
-          src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cXp1r&theme=transparent"
-          style="width: 100%; height: auto; display: block;"
-          alt="Repos per Language"
-        />
-      </a>
-    </div>
-    <div style="flex: 0 0 62.5%;">
-      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img
-          src="https://github-readme-activity-graph.vercel.app/graph?username=cXp1r&theme=dracula&hide_border=true&area=true"
-          style="width: 100%; height: auto; display: block;"
-          alt="Activity Graph"
-        />
-      </a>
-    </div>
-  </div>
+  <table align="center" width="100%" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td width="37.5%" valign="top">
+        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+          <img
+            src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cXp1r&theme=transparent"
+            width="100%"
+            alt="Repos per Language"
+          />
+        </a>
+      </td>
+      <td width="62.5%" valign="top">
+        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+          <img
+            src="https://github-readme-activity-graph.vercel.app/graph?username=cXp1r&theme=dracula&hide_border=true&area=true"
+            width="100%"
+            alt="Activity Graph"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
 
   <br />
   <br />
