@@ -7,14 +7,35 @@
   <br />
   <br />
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cXp1r&theme=2077" width="100%" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cXp1r&theme=transparent" width="100%" alt="Profile Details" />
+
+  <table align="center" width="100%" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td width="37.5%" valign="top">
+        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+          <img
+            src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cXp1r&theme=transparent"
+            width="100%"
+            alt="Repos per Language"
+          />
+        </a>
+      </td>
+      <td width="62.5%" valign="top">
+        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+          <img
+            src="https://github-readme-activity-graph.vercel.app/graph?username=cXp1r&theme=dracula&hide_border=true&area=true"
+            width="100%"
+            alt="Activity Graph"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
 
   <br />
   <br />
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cXp1r&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-  </a>
+  
 </div>
 
 ---
