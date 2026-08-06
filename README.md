@@ -9,7 +9,7 @@
 
   <table align="center" width="100%" cellpadding="0" cellspacing="0" border="0">
     <tr>
-      <td width="24.7%" valign="top">
+      <td width="25%" valign="top">
         <a href="https://github.com/stats-organization/github-stats-extended">
           <img
             src="https://github-stats-extended.vercel.app/api/top-langs?username=cXp1r&layout=donut-vertical&hide_title=true&langs_count=3&theme=catppuccin_latte"
@@ -19,7 +19,7 @@
           />
         </a>
       </td>
-      <td width="75.3%" valign="top">
+      <td width="75%" valign="top">
         <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
           <img
             src="https://github-readme-activity-graph.vercel.app/graph?username=cXp1r&theme=dracula&hide_border=true&area=true"
