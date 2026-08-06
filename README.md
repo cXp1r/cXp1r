@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/cXp1r">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=1E3A8A&center=true&vCenter=true&width=940&lines=Hi+there%2C+I'm+cXp1r" alt="Typing SVG" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=1E3A8A&center=true&vCenter=true&width=940&lines=Same+name+on+all+social+media;My+nickname+is+independent+of+anyone." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=1E3A8A&center=true&vCenter=true&width=940&lines=Same+name+on+some+social+media;My+nickname+is+independent+of+anyone." alt="Typing SVG" />
   </a>
 
   <br />
@@ -14,7 +14,6 @@
           <img
             src="https://github-stats-extended.vercel.app/api/top-langs?username=cXp1r&layout=donut-vertical&hide_title=true&langs_count=3&theme=catppuccin_latte"
             width="100%"
-            height="320"
             alt="Repos per Language"
           />
         </a>
@@ -24,7 +23,6 @@
           <img
             src="https://github-readme-activity-graph.vercel.app/graph?username=cXp1r&theme=dracula&hide_border=true&area=true"
             width="100%"
-            height="320"
             alt="Activity Graph"
           />
         </a>
