@@ -5,28 +5,26 @@
   </a>
 
   <br />
-  <br />
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cXp1r&theme=transparent" width="100%" alt="Profile Details" />
-  </a>
-  
+  <br /> 
 
   <table align="center" width="100%" cellpadding="0" cellspacing="0" border="0">
     <tr>
-      <td width="37.5%" valign="top">
-        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+      <td width="24.7%" valign="top">
+        <a href="https://github.com/stats-organization/github-stats-extended">
           <img
-            src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cXp1r&theme=transparent"
+            src="https://github-stats-extended.vercel.app/api/top-langs?username=cXp1r&layout=donut-vertical&hide_title=true&langs_count=3&theme=catppuccin_latte"
             width="100%"
+            height="320"
             alt="Repos per Language"
           />
         </a>
       </td>
-      <td width="62.5%" valign="top">
+      <td width="75.3%" valign="top">
         <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
           <img
             src="https://github-readme-activity-graph.vercel.app/graph?username=cXp1r&theme=dracula&hide_border=true&area=true"
             width="100%"
+            height="320"
             alt="Activity Graph"
           />
         </a>
@@ -77,5 +75,3 @@ Witness history! Congratulations to NiKo on winning the 2026 Cologne Major Champ
     </td>
   </tr>
 </table>
-
-# 头像源于[pixiv](https://www.pixiv.net/artworks/143203968)
