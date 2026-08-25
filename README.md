@@ -17,7 +17,7 @@
     </a>
     <img
       src="https://count.getloli.com/get/@cXp1r?theme=gelbooru"
-      height="100px"
+      height="150px"
     />
   </p>
   
@@ -62,5 +62,3 @@ Witness history! Congratulations to NiKo on winning the 2026 Cologne Major Champ
     </td>
   </tr>
 </table>
-
-![](https://count.getloli.com/get/@cXp1r?theme=gelbooru)
