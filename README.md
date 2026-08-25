@@ -7,31 +7,20 @@
   <br />
   <br /> 
 
-  <table align="center" width="100%" cellpadding="0" cellspacing="0" border="0">
-    <tr>
-      <td width="25%" valign="top">
-        <a href="https://github.com/stats-organization/github-stats-extended">
-          <img
-            src="https://github-stats-extended.vercel.app/api/top-langs?username=cXp1r&layout=donut-vertical&hide_title=true&langs_count=3&theme=catppuccin_latte"
-            width="100%"
-            alt="Repos per Language"
-          />
-        </a>
-      </td>
-      <td width="75%" valign="top">
-        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-          <img
-            src="https://github-readme-activity-graph.vercel.app/graph?username=cXp1r&theme=dracula&hide_border=true&area=true"
-            width="100%"
-            alt="Activity Graph"
-          />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <br />
-  <br />
+  <p>
+    <a href="https://github.com/stats-organization/github-stats-extended">
+      <img
+        src="https://github-stats-extended.vercel.app/api/top-langs?username=cXp1r&layout=donut-vertical&hide_title=true&langs_count=3&theme=catppuccin_latte"
+        height="150px"
+        alt="Repos per Language"
+      />
+    </a>
+    <img
+      src="https://count.getloli.com/get/@cXp1r?theme=gelbooru"
+      height="100px"
+    />
+  </p>
+  
 
   
 </div>
@@ -73,3 +62,5 @@ Witness history! Congratulations to NiKo on winning the 2026 Cologne Major Champ
     </td>
   </tr>
 </table>
+
+![](https://count.getloli.com/get/@cXp1r?theme=gelbooru)
