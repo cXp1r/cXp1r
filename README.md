@@ -8,13 +8,11 @@
   <br /> 
 
   <p>
-    <a href="https://github.com/stats-organization/github-stats-extended">
-      <img
+    <img
         src="https://github-stats-extended.vercel.app/api/top-langs?username=cXp1r&layout=donut-vertical&hide_title=true&langs_count=3&theme=catppuccin_latte"
         height="150px"
         alt="Repos per Language"
-      />
-    </a>
+    />
     <img
       src="https://count.getloli.com/get/@cXp1r?theme=gelbooru"
       height="150px"
