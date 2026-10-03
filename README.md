@@ -18,45 +18,13 @@
       height="150px"
     />
   </p>
-  
 
-  
+  <p>
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  </p>
 </div>
-
----
-
-
-
-
-# I love you, NiKo!
-波士顿的梦魇，斯德哥尔摩的遗憾，18次深夜中的眼泪，化成对冠军近乎癫狂的执念。十一年如一日的坚守，终破烙印胸膛中的心魔。
-尼古拉·科维奇，不以天赋自矜的天才，终将成就不朽的传奇。
-见证历史！恭喜NiKo夺得2026科隆major冠军！
-
-The nightmare of Boston, the regret of Stockholm, eighteen late-night tears—all condensed into an almost obsessive pursuit of the championship. Eleven years of unwavering persistence, finally breaking the inner demon branded upon the chest.
-Nikola Kovač, a genius who never relied on his talent as pride, will ultimately forge an immortal legend.
-Witness history! Congratulations to NiKo on winning the 2026 Cologne Major Championship!
-
-<table align="center" width="100%" cellpadding="0" cellspacing="0" border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="assets/esl1.png" alt="NiKo" width="100%" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/esl2.png" alt="NiKo" width="100%" />
-    </td>
-  </tr>
-</table>
-<table align="center" width="100%" cellpadding="0" cellspacing="0" border="0">
-  <tr>
-    <td width="33.3%" valign="top">
-      <img src="assets/1.webp" alt="NiKo" width="100%" />
-    </td>
-    <td width="33.3%" valign="top">
-      <img src="assets/2.webp" alt="NiKo" width="100%" />
-    </td>
-    <td width="33.3%" valign="top">
-      <img src="assets/3.webp" alt="NiKo" width="100%" />
-    </td>
-  </tr>
-</table>
